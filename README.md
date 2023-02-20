@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suman Saurav</h1>
-👨‍💻 All of my projects are available at (https://sumansaurav-portfolio.netlify.app/)<br><br>
+👨‍💻 All of my projects are available at https://sumansaurav-portfolio.netlify.app/<br><br>
 📫 How to reach me "sumansaurav0243@gmail.com"<br><br>📄 Know about my experiences https://drive.google.com/file/d/1vESJ_EGyeS9xFtvK8uylaioCZrRFH_Lj/view?usp=share_link<br><br>⚡ Fun fact: I am decent chess player.
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
